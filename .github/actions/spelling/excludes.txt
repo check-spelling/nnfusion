@@ -34,9 +34,11 @@ SUMS$
 \.mp4$
 \.otf$
 \.pbxproj$
+\.pb$
 \.pdf$
 \.pem$
 \.psd$
+\.pt$
 \.runsettings$
 \.sig$
 \.so$
@@ -79,4 +81,6 @@ SUMS$
 ^tools/ReleaseEngineering/ServicingPipeline.ps1$
 ^\.github/actions/spelling/
 ^\.gitignore$
+^\Qsrc/tools/nnfusion/templates/graphcore/Makefile\E$
+^\Qthirdparty/curl\E$
 ^\XamlStyler.json$
